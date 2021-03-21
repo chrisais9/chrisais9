@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-#### KMU University Computer Science (2019.03 ~ )
-
-#### Lead Developer, [Bitbyte.corp](https://plkey.app) (2019.06 ~ )
+- KMU University Computer Science (2019.03 ~ )
+- Lead Developer, [Bitbyte.corp](https://plkey.app) (2019.06 ~ )
 
 ### Github Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisais9&show_icons=true&theme=radical)
