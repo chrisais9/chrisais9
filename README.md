@@ -4,7 +4,7 @@
 
 - KMU University Computer Science (2019.03 ~ )
 - Lead Developer, [Bitbyte.corp](https://plkey.app) (2019.06 ~ 2021.08)
-- CTO, Playground.corp (2022.01.03 ~)
+- CTO(Co-Founder), Playground.corp (2022.01.03 ~)
 
 ### Github Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisais9&show_icons=true&theme=radical&count_private=true)
