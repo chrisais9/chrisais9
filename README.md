@@ -7,9 +7,9 @@
 - CTO(Co-Founder), Playground.corp (2022.01.03 ~)
 
 ### Github Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisais9&show_icons=true&theme=radical&count_private=true)
+![KooHyongMo's GitHub stats](https://github-readme-stats-dusky-ten.vercel.app/api?username=chrisais9&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisais9&layout=compact&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats-dusky-ten.vercel.app/api/top-langs/?username=chrisais9&layout=compact&theme=radical&count_private=true)
 
 ### BOJ Status
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chrisais9)](https://solved.ac/chrisais9)
