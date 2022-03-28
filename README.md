@@ -7,8 +7,10 @@
 - CTO(Co-Founder), Playground.corp (2022.01.03 ~)
 
 ### Github Status
-![KooHyongMo's GitHub stats](https://github-readme-stats-chrisais9.vercel.app/api?username=chrisais9&show_icons=true&theme=radical&count_private=true)
 
+![trophy](https://github-profile-trophy-chrisais9.vercel.app/?username=chrisais9&theme=radical&row=1&margin-w=5)
+
+![KooHyongMo's GitHub stats](https://github-readme-stats-chrisais9.vercel.app/api?username=chrisais9&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats-chrisais9.vercel.app/api/top-langs/?username=chrisais9&layout=compact&theme=radical&count_private=true)
 
 ### BOJ Status
