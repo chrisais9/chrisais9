@@ -8,7 +8,7 @@
 
 ### Github Status
 
-![trophy](https://github-profile-trophy-chrisais9.vercel.app/?username=chrisais9&theme=radical&row=1&margin-w=5)
+![trophy](https://github-profile-trophy-chrisais9.vercel.app/?username=chrisais9&theme=radical&row=1&column=5&margin-w=5)
 
 ![KooHyongMo's GitHub stats](https://github-readme-stats-chrisais9.vercel.app/api?username=chrisais9&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats-chrisais9.vercel.app/api/top-langs/?username=chrisais9&layout=compact&theme=radical&count_private=true)
