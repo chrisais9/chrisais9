@@ -4,7 +4,7 @@
 
 - KMU University Computer Science (2019.03 ~ )
 - Lead Developer, [Bitbyte.corp](https://plkey.app) (2019.06 ~ 2021.08)
-- Currently Building Web3 Multichain Game Platform (2022.01 ~)
+- Building Web3 Multichain Game Platform (2022.01 ~)
 
 ### Github Status
 
