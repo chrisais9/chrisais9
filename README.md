@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchrisais9%2Fchrisais9&count_bg=%237770FF&title_bg=%23555555&icon=&icon_color=%237770FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- KMU University Computer Science (2019.03 ~ )
+- Kookmin University Computer Science (2019.03 ~ )
 - Lead Developer, [Bitbyte.corp](https://plkey.app) (2019.06 ~ 2021.08)
 - Building Web3 Multichain Game / De-Fi Platform (2022.01 ~)
 
