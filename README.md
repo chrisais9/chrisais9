@@ -5,6 +5,7 @@
 - Kookmin University Computer Science (2019.03 ~ )
 - Lead Developer, [Bitbyte.corp](https://plkey.app) (2019.06 ~ 2021.08)
 - Building Web3 Multichain Game / De-Fi Platform (2022.01 ~)
+- CTO(Co-founder), Hashscape (2024.01 ~)
 
 ### Github Status
 
